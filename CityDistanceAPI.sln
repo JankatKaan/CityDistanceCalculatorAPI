@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CityDistanceAPI", "CityDistanceAPI\CityDistanceAPI.csproj", "{652F8BDC-4159-42A0-8754-4BFD109C9122}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{652F8BDC-4159-42A0-8754-4BFD109C9122}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{652F8BDC-4159-42A0-8754-4BFD109C9122}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{652F8BDC-4159-42A0-8754-4BFD109C9122}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{652F8BDC-4159-42A0-8754-4BFD109C9122}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A63DA1EB-0574-4C45-99C9-FAE1B22DB0BA}
+	EndGlobalSection
+EndGlobal
